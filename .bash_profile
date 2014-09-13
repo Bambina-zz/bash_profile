@@ -2,7 +2,6 @@
 alias ls='ls -F -G'
 alias be='bundle exec'
 alias emacs='/usr/local/bin/emacs -nw'
-alias be="bundle exec"
 alias subl='subl -n'
 
 export HISTCONTROL=ignoreboth
